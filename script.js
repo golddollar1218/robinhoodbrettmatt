@@ -10,8 +10,8 @@ const CONFIG = {
   // uniswap coin page — auto-built from tokenAddress if left empty
   pumpFunUrl: "",
 
-  twitter: "https://x.com/RobinhoodBrettX",
-  telegram: "https://t.me/robinhoodbrett",
+  twitter: "https://x.com/hoodbrett_x",
+  telegram: "https://t.me/hoodbrett_group",
 };
 
 const PLACEHOLDER_CA = "COMING_SOON — paste your token address in script.js";
