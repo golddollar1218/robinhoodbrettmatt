@@ -11,7 +11,7 @@ const CONFIG = {
   pumpFunUrl: "",
 
   twitter: "https://x.com/hoodbrett_x",
-  telegram: "https://t.me/hoodbrett_group",
+  telegram: "https://t.me/hoodbrett_tg",
 };
 
 const PLACEHOLDER_CA = "COMING_SOON — paste your token address in script.js";
