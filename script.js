@@ -25,7 +25,7 @@ function getPumpFunUrl() {
   if (CONFIG.tokenAddress && CONFIG.tokenAddress !== "0x9ACc546f37F5593Bf20Ed3F47BA3Ce814344681d") {
     return `https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=${CONFIG.tokenAddress}&chain=robinhood`;
   }
-  return "https://app.uniswap.org/swap?inputCurrency=ETH&chain=robinhood";
+  return "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=$0x9ACc546f37F5593Bf20Ed3F47BA3Ce814344681d&chain=robinhood";
 }
 
 function buildDexScreenerEmbedUrl(id) {
